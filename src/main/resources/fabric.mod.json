@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "orangemods",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Orange Mods",
+  "description": "This mod is so Orange",
   "authors": [
-    "Me!"
+    "jasnowizard Designs"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
+    "homepage": "https://github.com/jasnowizard",
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/orangemods/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.github.jasnowizard.OrangeMods"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "orangemods.mixins.json"
   ],
 
   "depends": {
