@@ -1,0 +1,11 @@
+{
+  "item.orangemods.fabric_item.tooltip_1": "My Tooltip in day %d, and month %d, %s",
+  "item.orangemods.fabric_item.tooltip_2": "Is this right",
+  "item.orangemods.fabric_item": "THE Fabric",
+  "item.orangemods.ebonyingot_item": "Ebony Ingot",
+  "item.orangemods.ebonyingot_item.tooltip_1": "Ebony placed in day %d, and month %d, %s",
+  "item.orangemods.ebonyingot_item.tooltip_2": "I think this is Ebony",
+  "itemGroup.orangemods.orangesgroup": "Oranges",
+  "itemGroup.orangemods.purplesgroup": "Purples"
+}
+
